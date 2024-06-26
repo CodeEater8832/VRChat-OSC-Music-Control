@@ -19,6 +19,6 @@ Currently, I am just publishing this here as-is, and how I use it. In the future
   `volume0`<br/>
 2. For radial menu controls, create 3 parameters of the same name in your avatar parameters.
 3. Create 2 buttons in the expressions menu (submenu works too), one with the `musictoggle` parameter, and the other with the `musicskip` parameter.
-4. For volume control (Voicemeeter Potato required), create a Radial Puppet in the expressions menu, with the parameter `volume0` attached to the Parameter Rotation of that Radial Puppet.
+4. For volume control (Voicemeeter Potato required), create a Radial Puppet in the expressions menu, with the parameter `volume0` attached to the Parameter Rotation of that Radial Puppet.<br/>
 At this point, everything should function, and if you know how, contacts also work really well for the control system.
 Thank you for using my program, and I hope you enjoy it! 
